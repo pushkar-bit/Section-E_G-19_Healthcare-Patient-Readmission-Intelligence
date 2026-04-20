@@ -1,0 +1,6 @@
+column,q1,q3,iqr,lower_bound,upper_bound,outlier_count
+n_inpatient,0.0,1.0,1.0,-1.5,2.5,1628
+n_procedures,0.0,2.0,2.0,-3.0,5.0,1227
+n_medications,11.0,20.0,9.0,-2.5,33.5,844
+time_in_hospital,2.0,6.0,4.0,-4.0,12.0,580
+n_lab_procedures,31.0,57.0,26.0,-8.0,96.0,33

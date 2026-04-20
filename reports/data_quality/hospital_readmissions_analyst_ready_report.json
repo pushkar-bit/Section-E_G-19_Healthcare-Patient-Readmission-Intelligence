@@ -1,0 +1,42 @@
+{
+  "input_path": "data/raw/hospital_readmissions.csv",
+  "output_path": "data/processed/hospital_readmissions_analyst_ready.csv",
+  "initial_shape": {
+    "rows": 25000,
+    "columns": 17
+  },
+  "final_shape": {
+    "rows": 25000,
+    "columns": 36
+  },
+  "missing_values_before_final_imputation": 0,
+  "missing_values_after_final_imputation": 0,
+  "outlier_caps_99pct": {
+    "n_outpatient": 5.0,
+    "n_inpatient": 5.0,
+    "n_emergency": 3.0,
+    "n_medications": 43.0,
+    "n_lab_procedures": 85.0
+  },
+  "new_columns": [
+    "n_outpatient_raw",
+    "n_inpatient_raw",
+    "n_emergency_raw",
+    "n_medications_raw",
+    "n_lab_procedures_raw",
+    "age_midpoint",
+    "total_visits",
+    "acute_visits",
+    "labs_per_day",
+    "meds_per_day",
+    "procedures_per_day",
+    "has_abnormal_glucose",
+    "has_abnormal_a1c",
+    "any_abnormal_test",
+    "medication_changed",
+    "on_diabetes_medication",
+    "readmitted_flag",
+    "unique_diag_groups",
+    "has_diabetes_diagnosis"
+  ]
+}
