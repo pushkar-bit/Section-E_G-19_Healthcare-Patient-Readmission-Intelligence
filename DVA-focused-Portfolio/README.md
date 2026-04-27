@@ -7,3 +7,6 @@ https://dva-portfolio-rose.vercel.app/
 
 **Pranavi Mathur**
 https://dva-focused-resume-1xow.vercel.app/
+
+**Lakshay Saharan**
+https://data-visualization-analyst-portfoli.vercel.app/
