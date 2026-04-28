@@ -20,13 +20,13 @@ This project analyzes 25,000 hospital patient records to identify patterns and r
 
 | Role | Name | GitHub Username |
 | --- | --- | --- |
-| Project Lead | Pushkar | To be filled |
-| Data Lead | To be filled | To be filled |
-| ETL Lead | To be filled | To be filled |
-| Analysis Lead | To be filled | To be filled |
+| Project Lead | Pushkar | pushkar-bit |
+| Data Lead | Lakshay | LakshaySaharan |
+| ETL Lead | Shreya Narayani | Shreyaa6 |
+| Analysis Lead | Pranavi Mathur | pranavi015 |
 | Visualization Lead | Vaibhav Vats | vaibhavvats99 |
-| Strategy Lead | To be filled | To be filled |
-| PPT & Quality Lead | To be filled | To be filled |
+| Strategy Lead | Nikith Gowda | nikithcodes |
+| PPT & Quality Lead | Pushkar | pushkar-bit |
 
 ## Business Problem
 
