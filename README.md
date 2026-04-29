@@ -204,13 +204,6 @@ SectionName_TeamID_ProjectName/
 - [x] README documented
 - [x] Insights and recommendations included
 
-## Contribution Matrix
-
-| Member | Dataset | ETL | EDA | Stats | Tableau | Report | PPT |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Vaibhav Vats | Owner | Owner | Owner | Owner | Owner | Owner | Owner |
-| Member 2 | Support | Support | Support | Support | Support | Support | Support |
-
 ## Declaration
 
 We confirm that all work in this project is original and contributions are verifiable.
