@@ -87,7 +87,7 @@ This analysis enables hospitals to:
 
 | Item | Details |
 | --- | --- |
-| Dashboard URL | Add Tableau Public link |
+| Dashboard URL | [Add Tableau Public lin](https://public.tableau.com/views/Healthcare_Patient_Readmission_Intelligence/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) |
 
 ### Executive View
 
