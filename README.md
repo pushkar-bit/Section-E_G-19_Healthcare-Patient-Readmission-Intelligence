@@ -8,11 +8,11 @@
 | --- | --- |
 | Project Title | Hospital Readmission Risk Analysis |
 | Sector | Healthcare |
-| Team ID | DVA TEAM |
-| Section | To be filled |
+| Team ID | 19 |
+| Section | E |
 | Faculty Mentor | To be filled |
 | Institute | Newton School of Technology |
-| Submission Date | To be filled |
+| Submission Date | 29/04/26 |
 
 This project analyzes 25,000 hospital patient records to identify patterns and risk factors driving 30-day readmissions. Using Python and Tableau, we transformed raw healthcare data into actionable insights for hospital decision-makers.
 
@@ -20,11 +20,11 @@ This project analyzes 25,000 hospital patient records to identify patterns and r
 
 | Role | Name | GitHub Username |
 | --- | --- | --- |
-| Project Lead | Vaibhav Vats | To be filled |
+| Project Lead | Pushkar | To be filled |
 | Data Lead | To be filled | To be filled |
 | ETL Lead | To be filled | To be filled |
 | Analysis Lead | To be filled | To be filled |
-| Visualization Lead | To be filled | To be filled |
+| Visualization Lead | Vaibhav Vats | vaibhavvats99 |
 | Strategy Lead | To be filled | To be filled |
 | PPT & Quality Lead | To be filled | To be filled |
 
