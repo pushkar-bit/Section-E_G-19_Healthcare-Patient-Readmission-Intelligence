@@ -10,3 +10,6 @@ https://dva-focused-resume-1xow.vercel.app/
 
 **Lakshay Saharan**
 https://data-visualization-analyst-portfoli.vercel.app/
+
+**Nikith Gowda BS**
+https://dva-portfolio-seven-lyart.vercel.app/
